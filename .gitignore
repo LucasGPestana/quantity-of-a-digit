@@ -1,0 +1,15 @@
+# Diretórios de compilação
+
+/bin/
+/obj/
+
+# Arquivos de compilação
+
+*.o
+*.exe
+
+# Arquivos criados pelo CodeBlocks
+
+*.cbp
+*.depend
+*.layout
